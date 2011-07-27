@@ -1,0 +1,10 @@
+We use *islands* to name code repository (from A to Z), such as:
+atlantis: our main repo
+australia: our main document center
+bermuda: not set yet
+cicilia: our backend editor project
+
+We use *cities* to name a formal release (from A to Z), such as:
+Aamsterdam: 1.0
+Barcelona: 2.0
+Copenhagen: 3.0
